@@ -23,6 +23,5 @@
 <p>A real-time weather application that provides current weather conditions, 24-hour forecasts, and 10-day forecasts in advance.</p>
 
 ## Author(s)
-**JcSilverX**
-- <https://jcsilverx.com/>
-- <https://github.com/JcSilverX>
+- jcsilverx ([@jcsilverx](https://x.com/jcsilverx))
+
